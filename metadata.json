@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Analisador de Amostras de Ambiente",
+  "description": "Um aplicativo para fazer upload de uma planilha XLSX com dados de amostras de ambiente (Temperatura, Umidade, CO2) e visualizar as tendências ao longo do tempo em gráficos de linha.",
+  "requestFramePermissions": []
+}
